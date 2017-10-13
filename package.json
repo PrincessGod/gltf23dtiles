@@ -1,0 +1,23 @@
+{
+  "name": "gltf23dtiles",
+  "version": "1.0.0",
+  "description": "convert gltf files to 3d-tiles tileset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cesium",
+    "3d-tiles",
+    "gltf"
+  ],
+  "author": "PrincessGod",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-cesium": "^2.0.1"
+  },
+  "dependencies": {
+    "cesium": "^1.38.0",
+    "eslint": "^4.8.0"
+  }
+}
