@@ -1,2 +1,9 @@
 # node modules
 node_modules
+
+# test file
+test.js
+gltf2
+
+# vscode
+launch.json
